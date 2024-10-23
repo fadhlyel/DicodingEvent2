@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DicodingEvent</string>
+    <string name="title_home">Upcoming</string>
+    <string name="title_dashboard">Finished</string>
+    <string name="gambar_event">gambar event</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="recomendation">Recomendation</string>
+    <string name="event_not_found">Event Not Found</string>
+    <string name="search">Search.......</string>
+    <string name="detail_event">Detail Event</string>
+    <string name="own_event">Own Event</string>
+    <string name="_500">500</string>
+    <string name="available_quotas">Available Quotas:</string>
+    <string name="begin">Begin:</string>
+    <string name="_28_05_2004_07_00">28–05-2004 07.00</string>
+    <string name="end">End</string>
+    <string name="descrpition">Descrpition:</string>
+    <string name="blablabla">BlaBlaBla…</string>
+    <string name="register">Register</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="no_favorite_events">No Favorite Events</string>
+    <string name="favorite_events">Favorite Events</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="floating_fav">Floating Fav</string>
+</resources>
